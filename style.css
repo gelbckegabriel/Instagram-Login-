@@ -138,7 +138,7 @@ body{
         border: 1px solid transparent;
     }
 }
-@media (max-height: 702px){
+@media (max-height: 707px){
     .wrapper{
         height: 100px;
         margin: auto;
